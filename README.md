@@ -1,5 +1,8 @@
-# SageMaker Deployment Project
+dl_sagemaker_pytorch_sentiment_analysis
 
-The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
+Sentiment Analysis using Pytorch and AWS SageMaker : a project for Udacity's Deep Learning Nano Degree
 
-Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
+A simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews.
+
+Starter code was provided by Udacity
+
